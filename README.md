@@ -20,3 +20,15 @@ https://github.com/square/okhttp
 ```
 implementation("com.squareup.okhttp3:okhttp:3.14.2")
 ```
+
+### Open Weather Maps
+
+OpenWeatherMap is an online service that provides weather data, including current weather data, forecasts, and historical data to the developers of web services and mobile applications.
+
+https://openweathermap.org/api
+
+### Public APIs
+
+A collective list of free APIs for use in software and web development. You can use this list of APIs that are publicly available to test out your Android development skills.
+
+https://github.com/toddmotto/public-apis
